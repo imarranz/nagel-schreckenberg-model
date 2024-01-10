@@ -1,7 +1,7 @@
 
 # Modelo Nagel-Schreckenberg para Simulación de Tráfico
 
-![](https://repository-images.githubusercontent.com/598706236/853dd87f-7c7d-4569-b8b3-8e786f167608)
+![](https://repository-images.githubusercontent.com/741367698/c7000baf-1fa6-4cde-b86b-b62ef9ab31c7)
 
 **Versión y Actividad**
 
