@@ -76,6 +76,14 @@ $ python nagel_schreckenberg_model.py
 
 4. Observa la simulación en tiempo real y analiza el comportamiento del tráfico en la carretera.
 
+## Salida
+
+Actualmente, el código está desarrollado para que genere una imagen como la siguiente:
+
+![](notebooks/results/nagel-schreckenberg-model-300-0.5-10-0.3-20.png)
+
+En esta imagen se muestran los diferentes tiempos evaluados en el eje Y (_tiempo_) mostrando en la parte superior los primeros estados y en la parte inferior los últimos estados analizados. En el eje X (_posición_) la posición de cada coche en la carreter. Cada punto representa un vehículo y el color nos dice la velocidad a la que circula cada vehículo.
+
 ## Personalización
 
 Puedes personalizar la simulación ajustando los parámetros en el archivo `nagel_schreckenberg_model.py` según tus necesidades. Experimenta con diferentes configuraciones para observar cómo afectan al tráfico y la congestión en la carretera.
