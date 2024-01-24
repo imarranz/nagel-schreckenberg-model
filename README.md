@@ -80,7 +80,7 @@ $ python nagel_schreckenberg_model.py
 
 Actualmente, el código está desarrollado para que genere una imagen como la siguiente:
 
-![](notebooks/results/nagel-schreckenberg-model-300-0.5-10-0.3-20.png)
+![](notebooks/results/nagel-schreckenberg-model-500-0.5-10-0.3-30.png)
 
 En esta imagen se muestran los diferentes tiempos evaluados en el eje Y (_tiempo_) mostrando en la parte superior los primeros estados y en la parte inferior los últimos estados analizados. En el eje X (_posición_) la posición de cada coche en la carreter. Cada punto representa un vehículo y el color nos dice la velocidad a la que circula cada vehículo.
 
