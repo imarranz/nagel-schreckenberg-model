@@ -47,7 +47,7 @@ El modelo de Nagel-Schreckenberg se basa en reglas simples de interacción entre
 
   * **Desaceleración**: Si la distancia al vehículo de adelante es menor o igual a su velocidad actual, reduce su velocidad a la distancia disponible.
 
-  * **Frenado Aleatorio: Con una probabilidad dada, un vehículo puede reducir su velocidad de manera aleatoria, simulando comportamientos humanos impredecibles.
+  * **Frenado Aleatorio**: Con una probabilidad dada, un vehículo puede reducir su velocidad de manera aleatoria, simulando comportamientos humanos impredecibles.
 
   * **Movimiento**: Los vehículos avanzan de acuerdo a sus velocidades actualizadas.
 
